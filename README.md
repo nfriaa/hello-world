@@ -1,4 +1,5 @@
 # hello-world
-My Hello World sample project
+
+Welcom to my Hello World sample project
 
 ;-)
